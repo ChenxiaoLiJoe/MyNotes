@@ -1,6 +1,6 @@
 1.大模型三种模式：(1) Embedded (2) Copilot (3) Agent
 
-2.技术架构(1) 纯prompt (2) Agent + Functional Calling
+2.技术架构：(1) 纯prompt (2) Agent + Functional Calling
 
 3.单Agent和Multi-Agent
 
